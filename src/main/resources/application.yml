@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: demoapplication
+ribbon:
+  VipAddress: test
+  ServerListRefreshInterval: 2000
